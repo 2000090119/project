@@ -10,4 +10,4 @@ System.out.println("The sum of numbers is: "+sum);
 }  
 }  
 
-this is the java code to add two numbers
+this is the java program code to add two numbers
